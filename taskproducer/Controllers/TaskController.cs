@@ -29,7 +29,6 @@ namespace taskproducer.Controllers
                 Dictionary<string, string> userData = new Dictionary<string, string>
                 {
                     { "email", tasks.Email },
-                    { "username", "lidiya" },
                     { "password", tasks.Password }
                 };
 
