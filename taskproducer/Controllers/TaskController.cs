@@ -4,6 +4,7 @@ using RabbitMQ.Client;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using taskproducer.Models;
 
@@ -35,7 +36,7 @@ namespace taskproducer.Controllers
                 string Json = JsonConvert.SerializeObject(userData, Formatting.Indented);
 
                 var content = new StringContent(Json, Encoding.UTF8, "application/json");
-                content.Headers.Add("Accept", "application/json");
+                //content.Headers.Add("Accept", "application/json");
 
                 var response = await Client.PostAsync("https://reqres.in/api/login", content);
 
@@ -44,6 +45,10 @@ namespace taskproducer.Controllers
                     var result = await response.Content.ReadAsStringAsync();
                     token = System.Text.Json.JsonSerializer.Deserialize<string>(result);
                     Console.WriteLine("token:" + token);
+                }
+                else
+                {
+                    error = "No token";
                 }
             }
             catch (Exception ex)

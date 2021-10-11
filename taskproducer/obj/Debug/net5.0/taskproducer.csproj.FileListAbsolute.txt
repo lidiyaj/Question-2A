@@ -1,17 +1,12 @@
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\appsettings.Development.json
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\appsettings.json
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\taskproducer.exe
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\taskproducer.deps.json
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\taskproducer.runtimeconfig.json
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\taskproducer.runtimeconfig.dev.json
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\taskproducer.dll
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\ref\taskproducer.dll
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\taskproducer.pdb
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\RabbitMQ.Client.dll
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.csproj.AssemblyReference.cache
 D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.GeneratedMSBuildEditorConfig.editorconfig
 D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.AssemblyInfoInputs.cache
 D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.AssemblyInfo.cs
@@ -26,6 +21,3 @@ D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.csp
 D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.dll
 D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\ref\taskproducer.dll
 D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.pdb
-D:\Lidiya\Assessment2\Question-2A\taskproducer\obj\Debug\net5.0\taskproducer.genruntimeconfig.cache
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\Lidiya\Assessment2\Question-2A\taskproducer\bin\Debug\net5.0\RabbitMQ.Client.dll
