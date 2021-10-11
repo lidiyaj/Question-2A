@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskproducer", "taskproducer.csproj", "{BAA975B9-4A02-4364-AB32-8518C9F3CC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA975B9-4A02-4364-AB32-8518C9F3CC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA975B9-4A02-4364-AB32-8518C9F3CC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA975B9-4A02-4364-AB32-8518C9F3CC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA975B9-4A02-4364-AB32-8518C9F3CC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B2FA36-7C5F-4470-92A3-30FBBED3CFE8}
+	EndGlobalSection
+EndGlobal
